@@ -1,3 +1,5 @@
+## The following content is provided by the original author.
+
 # YOLOv4-PyTorch
 
 ![](https://img.shields.io/static/v1?label=python&message=3.6|3.7&color=blue)
